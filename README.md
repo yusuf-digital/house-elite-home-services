@@ -4,7 +4,7 @@ House Elite is a responsive home-services web application designed to connect cu
 
 ## Live Demo
 
-**[Launch House Elite Live Demo](YOUR_LIVE_DEMO_LINK)**
+**[Launch House Elite Live Demo](https://houseeliterealapp.vercel.app/)**
 
 > This repository is maintained as a portfolio showcase for the House Elite project. The complete deployable source code is kept private.
 
