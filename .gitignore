@@ -1,0 +1,19 @@
+# House Elite public portfolio repository
+# Keep full/deployable application source private.
+
+*.html
+*.js
+*.css
+*.zip
+*.rar
+*.7z
+*.apk
+*.aab
+.env
+.env.*
+dist/
+build/
+deployment/
+private/
+source/
+src/
