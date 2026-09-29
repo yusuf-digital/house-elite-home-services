@@ -8,6 +8,8 @@ House Elite is a responsive home-services web application designed to connect cu
 
 > This repository is maintained as a portfolio showcase for the House Elite project. The complete deployable source code is kept private.
 
+> **Portfolio safety note:** The public demo/repository should not be used to publish or expose real client payment identifiers, UPI IDs, personal phone numbers, addresses, or other private contact/payment information. Any such production/client details should be replaced with clearly fictional demo values before public sharing.
+
 ## Project Overview
 
 House Elite provides a connected service workflow where customers can search professionals, create bookings, track service progress, raise contract and emergency requests, access previous service bills, and manage their profile. Service professionals can manage bookings, contracts, emergency requests, availability, earnings, location, ratings, and notifications. Administrators can manage users, providers, services, bookings, complaints, reports, and user account access.
